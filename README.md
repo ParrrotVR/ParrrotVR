@@ -32,15 +32,16 @@
 
 ## 🧭 About
 
-```text
-I do a lot of cybersecurity / coding projects.
-Self-taught engineer working at the intersection of web security research, browser engineering, and game preservation. I build fast, resilient web applications — from service-worker-based proxy systems to full in-browser ports of desktop games — with a product mindset: if it isn't fast, persistent, and accessible from any machine, it ships again until it is.
+> I do a lot of cybersecurity / coding projects.
 
-🔐 Deep interest in network traffic interception, request rewriting, and web filtering evasion research
-🕹️ Ported multiple desktop games to the browser with working save systems
-⚡ Obsessed with performance, uptime, and zero-install access
-🧩 Reverse-engineering enthusiast — from GameMaker 8.x binaries to multiplayer protocols
-Open To: collaboration on web proxy research, browser game ports, open-source security tooling, and multiplayer modding projects.
+Self-taught engineer working at the intersection of **web security research**, **browser engineering**, and **game preservation**. I build fast, resilient web applications — from service-worker-based proxy systems to full in-browser ports of desktop games — with a product mindset: if it isn't fast, persistent, and accessible from any machine, it ships again until it is.
+
+- 🔐 Deep interest in **network traffic interception, request rewriting, and web filtering evasion research**
+- 🕹️ Ported multiple desktop games to the browser with **working save systems**
+- ⚡ Obsessed with **performance, uptime, and zero-install access**
+- 🧩 Reverse-engineering enthusiast — from GameMaker 8.x binaries to multiplayer protocols
+
+**Open To:** collaboration on web proxy research, browser game ports, open-source security tooling, and multiplayer modding projects.
 
 🛠️ Tech Stack
 <div align="center">
