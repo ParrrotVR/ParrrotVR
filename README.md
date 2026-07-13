@@ -1,514 +1,359 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09001A,45:4C1D95,100:6D28D9&height=220&section=header&text=ParrrotVR&fontSize=72&fontColor=F5F3FF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20AI%20Systems&descAlignY=58&descSize=18" alt="ParrrotVR header" />
-
 <div align="center">
 
-<a href="https://github.com/ParrrotVR">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Engineering+secure%2C+high-performance+software;Building+browser-native+products+and+developer+tools;Exploring+AI%2FML+through+a+security-first+lens;Turning+complex+systems+into+reliable+experiences" alt="Typing introduction" />
-</a>
-
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=ParrrotVR&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20Web%20Engineering%20%E2%80%A2%20Game%20Porting&descSize=18&descAlignY=55" width="100%"/>
 
 <a href="https://github.com/ParrrotVR">
-  <img src="https://img.shields.io/badge/Independent_Study-Software_Engineering-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Software Engineering" />
-</a>
-<a href="https://github.com/ParrrotVR">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-5B21B6?style=flat-square&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
-</a>
-<a href="https://github.com/ParrrotVR">
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-6D28D9?style=flat-square&logo=probot&logoColor=white" alt="AI and Machine Learning" />
-</a>
-<a href="https://github.com/ParrrotVR">
-  <img src="https://img.shields.io/badge/Location-Remote-4338CA?style=flat-square&logo=googlemaps&logoColor=white" alt="Remote" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Coding+Projects;Web+Proxy+%26+Network+Research;Browser+Game+Porting+Engineer;Building+Fast%2C+Unblockable+Web+Apps" alt="Typing SVG"/>
 </a>
 
-<br /><br />
+<br/><br/>
 
-<a href="https://mysmic.dev">
-  <img src="https://img.shields.io/badge/PORTFOLIO-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/parrrotvr/">
-  <img src="https://img.shields.io/badge/LINKEDIN-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:parrrotvr@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/ParrrotVR">
-  <img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-6E40C9?style=flat-square&logo=hackaday&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discipline-Self--Taught_Engineer-7C3AED?style=flat-square&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-GitHub_Pro-8B5CF6?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-The_Internet-4C1D95?style=flat-square&logo=googlemaps&logoColor=white"/>
 
-<br /><br />
+<br/><br/>
 
-<a href="https://github.com/ParrrotVR">
-  <img src="https://komarev.com/ghpvc/?username=ParrrotVR&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" alt="Profile views" />
-</a>
-<a href="https://github.com/ParrrotVR?tab=followers">
-  <img src="https://img.shields.io/github/followers/ParrrotVR?label=FOLLOWERS&style=for-the-badge&color=5B21B6&labelColor=111827" alt="Followers" />
-</a>
-<a href="https://github.com/ParrrotVR?tab=repositories">
-  <img src="https://img.shields.io/github/stars/ParrrotVR?affiliations=OWNER&label=REPO+STARS&style=for-the-badge&color=4F46E5&labelColor=111827" alt="Repository stars" />
-</a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ParrrotVR"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ParrrotVR&style=flat-square&color=8B5CF6&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/ParrrotVR?style=flat-square&color=7C3AED&labelColor=1a1a2e&label=Followers"/>
+<img src="https://img.shields.io/github/stars/ParrrotVR?style=flat-square&color=6E40C9&labelColor=1a1a2e&label=Total+Stars"/>
 
 </div>
 
 ---
 
-## About
+## 🧭 About
 
-I am a product-minded software developer focused on building secure, performant, and accessible software. My work spans browser-native applications, JavaScript systems, WebAssembly delivery, service workers, release infrastructure, cybersecurity research, and cloud-edge deployment.
+> I do a lot of cybersecurity / coding projects.
 
-I approach engineering as more than writing code: I think about product behavior, maintainability, deployment constraints, integrity, performance, and the experience of the person using the system. My current work includes full-stack web engineering and developer tooling while I expand my applied AI/ML expertise through practical experimentation.
+Self-taught engineer working at the intersection of **web security research**, **browser engineering**, and **game preservation**. I build fast, resilient web applications — from service-worker-based proxy systems to full in-browser ports of desktop games — with a product mindset: if it isn't fast, persistent, and accessible from any machine, it ships again until it is.
 
-My long-term direction is to engineer reliable products at the intersection of software development, artificial intelligence, platform security, and scalable web infrastructure.
+- 🔐 Deep interest in **network traffic interception, request rewriting, and web filtering evasion research**
+- 🕹️ Ported multiple desktop games to the browser with **working save systems**
+- ⚡ Obsessed with **performance, uptime, and zero-install access**
+- 🧩 Reverse-engineering enthusiast — from GameMaker 8.x binaries to multiplayer protocols
 
-### Open To
-
-<div align="center">
-
-![Open Source](https://img.shields.io/badge/Open_To-Open_Source_Collaboration-4C1D95?style=flat-square)
-![Software Engineering](https://img.shields.io/badge/Open_To-Software_Engineering-5B21B6?style=flat-square)
-![Product Engineering](https://img.shields.io/badge/Open_To-Product_Engineering-6D28D9?style=flat-square)
-![Security](https://img.shields.io/badge/Open_To-Security_Focused_Projects-4338CA?style=flat-square)
-![AI](https://img.shields.io/badge/Open_To-AI_Tooling_Experiments-3730A3?style=flat-square)
-
-</div>
+**Open To:** collaboration on web proxy research, browser game ports, open-source security tooling, and multiplayer modding projects.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
-
-<div align="center">
-
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
-<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C Sharp" /></a>
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
-
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,lua&theme=dark"/>
 
 ### Frontend
-
-<div align="center">
-
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-<a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
-<a href="https://developer.mozilla.org/docs/Web/API/WebAssembly"><img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" /></a>
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
-<a href="https://godotengine.org/"><img src="https://skillicons.dev/icons?i=godot" alt="Godot" /></a>
-
-</div>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,thre&theme=dark"/>
 
 ### Backend & Databases
-
-<div align="center">
-
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-<a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
-<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
-
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,deno,mongodb,sqlite&theme=dark"/>
 
 ### Cloud, DevOps & Tooling
-
-<div align="center">
-
-<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
-<a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></a>
-<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+<img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,vercel,netlify,linux,bash&theme=dark"/>
 
 </div>
 
 ---
 
-## AI / ML Expertise
+## 🧠 Core Expertise
 
 | Domain | Proficiency | Details |
-|:---|:---:|:---|
-| LLM Application Engineering | Developing | Exploring structured prompting, tool-augmented workflows, retrieval patterns, evaluation, and reliable AI-assisted product experiences. |
-| Machine Learning Foundations | Foundational | Building knowledge across supervised learning, model evaluation, feature engineering, data preparation, and responsible experimentation. |
-| Applied AI Integrations | Developing | Integrating AI capabilities into web products and developer workflows with an emphasis on useful, measurable outcomes. |
-| AI Security | Security-first | Studying prompt injection, untrusted model output, data exposure, authorization boundaries, and safe tool execution. |
-| Data & Evaluation | Foundational | Focusing on reproducible experiments, representative datasets, quality metrics, failure analysis, and iteration based on evidence. |
-| Intelligent Automation | Exploring | Investigating agents, workflow orchestration, browser automation, and human-in-the-loop software systems. |
+|--------|-------------|---------|
+| Web Proxy & Unblocking | ⭐⭐⭐⭐⭐ | Service-worker interception, request rewriting, `about:blank` cloaking, Ultraviolet-class proxies |
+| Browser Game Porting | ⭐⭐⭐⭐⭐ | WASM/HTML5 ports of desktop games with persistent save state |
+| Network & Traffic Research | ⭐⭐⭐⭐ | HTTP(S) proxying, header manipulation, filter-evasion research |
+| Reverse Engineering | ⭐⭐⭐⭐ | GameMaker 8.x decompilation, binary analysis, protocol reversing |
+| Multiplayer Modding | ⭐⭐⭐ | Client/server sync layers, release engineering (WorldBox Multiplayer) |
+| Frontend Engineering | ⭐⭐⭐⭐ | High-performance JS/HTML apps, zero-dependency deployments |
 
 ---
 
-## Featured Projects
-
-<details open>
-<summary><strong>WorldBox Multiplayer Release Infrastructure</strong></summary>
-
-<br />
-
-A versioned public release feed for distributing WorldBox Multiplayer builds and launcher updates with explicit compatibility metadata and artifact integrity verification.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | JSON, GitHub Releases, C#/.NET artifacts, SHA-256 |
-| **Scale** | Versioned mod DLLs, launcher binaries, release history, and installer compatibility metadata |
-| **Performance** | Lightweight machine-readable update feed designed for fast installer checks |
-| **Security** | SHA-256 checksums supplied for every downloadable DLL and launcher artifact |
-| **Impact** | Creates a dependable release channel with verifiable downloads and controlled version compatibility |
-| **Repository** | [ParrrotVR/WorldBoxMultiplayer-Releases](https://github.com/ParrrotVR/WorldBoxMultiplayer-Releases) |
-
-The repository separates the installer from the public artifact feed, records minimum supported installer versions, and exposes deterministic release metadata. This design keeps client update logic simple while ensuring downloaded binaries can be validated before execution.
-
-</details>
-
-<br />
+## 🚀 Featured Projects
 
 <details>
-<summary><strong>Game Portal</strong></summary>
+<summary><b>🎰 cloverpit</b></summary>
 
-<br />
+<br/>
 
-A cloud-deployed browser application that organizes and serves web experiences through a responsive portal with service-worker support and edge routing.
+A full web port of **CloverPit** that saves — bringing the desktop title to the browser with a working persistence layer so progress survives across sessions.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | HTML5, CSS3, JavaScript, Service Workers, Cloudflare Workers |
-| **Scale** | Multi-experience portal with a large static asset catalog and edge-hosted delivery |
-| **Performance** | Service-worker caching, static asset routing, and cloud-edge distribution |
-| **Security** | Explicit COOP, COEP, and CORP headers with controlled service-worker scope |
-| **Impact** | Provides a unified, installable, browser-native product surface across devices |
-| **Repository** | [ParrrotVR/game-portal](https://github.com/ParrrotVR/game-portal) |
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | HTML5, JavaScript, WASM, LocalStorage/IndexedDB |
+| **Scale** | Full standalone game runtime in the browser |
+| **Performance** | Native-feel frame timing, no install required |
+| **Security** | Client-side sandboxed, no server dependency |
+| **Impact** | Playable anywhere; forked by other developers |
+| **Repository** | [cloverpit](https://github.com/ParrrotVR/cloverpit) |
 
-The project combines product-facing interface work with deployment engineering. Its architecture includes custom cache behavior, cross-origin isolation policies, Cloudflare asset bindings, routing configuration, and a clean deployment branch for reproducible delivery.
+Focused on solving the hardest part of browser ports — durable save state — while keeping the entire experience client-side and zero-install.
 
 </details>
-
-<br />
 
 <details>
-<summary><strong>Ultrapool Web Port</strong></summary>
+<summary><b>🌱 pvz / portedpvz</b></summary>
 
-<br />
+<br/>
 
-A browser-targeted WebAssembly port engineered to package and deliver a large interactive application within common source-hosting limits.
+Browser ports of **Plants vs. Zombies**, packaged for instant play with no downloads.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | JavaScript, HTML5, WebAssembly, Godot Web Export |
-| **Scale** | Approximately 185 MB of repository assets distributed across package and WASM segments |
-| **Performance** | Native-like browser execution through WebAssembly and audio worklets |
-| **Security** | Cross-origin isolation support provided through a dedicated service worker |
-| **Impact** | Makes a desktop-oriented interactive experience available through a modern browser runtime |
-| **Repository** | [ParrrotVR/ultrapoolwebport](https://github.com/ParrrotVR/ultrapoolwebport) |
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | HTML, JavaScript, HTML5 Canvas |
+| **Scale** | Complete game front-to-back in-browser |
+| **Performance** | Optimized asset loading for fast cold starts |
+| **Security** | Fully static, self-hostable |
+| **Impact** | Zero-install access to a classic title |
+| **Repository** | [pvz](https://github.com/ParrrotVR/pvz) · [portedpvz](https://github.com/ParrrotVR/portedpvz) |
 
-The implementation handles large binary payloads through segmented asset files while preserving the runtime requirements of the original export. It demonstrates practical work with WebAssembly delivery, browser audio, cross-origin isolation, and high-volume static assets.
+Demonstrates end-to-end asset packaging and runtime bootstrapping for shipping legacy games on the modern web.
 
 </details>
-
-<br />
 
 <details>
-<summary><strong>Raccoon Demo Web Port</strong></summary>
+<summary><b>🏊 ultrapoolwebport</b></summary>
 
-<br />
+<br/>
 
-A cross-platform Godot web-export packaging workflow designed around GitHub file-size constraints and reproducible asset reconstruction.
+The web port of **Ultrapool**, rebuilt to run entirely in the browser.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | Godot, JavaScript, WebAssembly, HTML, Bash, Batch |
-| **Scale** | 59 package chunks, multiple WASM segments, and a large browser-delivered asset bundle |
-| **Performance** | WebAssembly runtime with position-aware audio worklets |
-| **Security** | Browser cross-origin isolation enabled through service-worker controls |
-| **Impact** | Enables large Godot exports to be versioned and reconstructed on Windows, Linux, and macOS |
-| **Repository** | [ParrrotVR/funiracoondemowebport](https://github.com/ParrrotVR/funiracoondemowebport) |
-
-Platform-specific merge scripts reconstruct the original application assets before deployment. The workflow provides a pragmatic solution for managing oversized exports while retaining a straightforward path to local hosting or GitHub Pages deployment.
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | JavaScript, HTML5 |
+| **Scale** | Full game port |
+| **Performance** | Lightweight, fast-loading build |
+| **Security** | Static hosting, no backend attack surface |
+| **Impact** | 2 forks — reused by the community |
+| **Repository** | [ultrapoolwebport](https://github.com/ParrrotVR/ultrapoolwebport) |
 
 </details>
-
-<br />
 
 <details>
-<summary><strong>CloudMoon Proxy Research Environment</strong></summary>
+<summary><b>🌍 terriorial.io</b></summary>
 
-<br />
+<br/>
 
-A controlled browser-networking test environment for studying service-worker interception, encrypted WebSocket transport, and sandboxed proxy behavior.
+A hosted build of **territorial.io** configured for unblocked access.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | JavaScript, HTML5, CSS3, Service Workers, WebSockets |
-| **Scale** | Modular client containing transport, proxy runtime, service-worker, and interface components |
-| **Performance** | Low-latency WebSocket transport with configurable backend selection |
-| **Security** | Restricted to secure contexts such as HTTPS or localhost; intended for authorized testing |
-| **Impact** | Supports repeatable research into browser networking, request interception, and service-worker architecture |
-| **Repository** | [ParrrotVR/zxs-test-proxy](https://github.com/ParrrotVR/zxs-test-proxy) |
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | HTML, JavaScript |
+| **Scale** | Full multiplayer web game front-end |
+| **Performance** | Minimal-overhead static delivery |
+| **Security** | Proxy-aware routing |
+| **Impact** | 1 fork; accessible from restricted networks |
+| **Repository** | [terriorial.io](https://github.com/ParrrotVR/terriorial.io) |
 
-The project isolates proxy behavior inside a dedicated research surface and documents its secure-context requirements. It is useful for learning how browser service workers coordinate with transport layers and how latency affects remotely delivered interactive workloads.
+</details>
+
+<details>
+<summary><b>🛡️ Web Proxy Suite — Ultraviolet · Holy-Unblocker · Mysmic-Unblocker · Slate</b></summary>
+
+<br/>
+
+A collection of modern web proxy and site-unblocker deployments used for **network filtering research** and censorship-resistance study.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | JavaScript, Service Workers, Node.js |
+| **Scale** | Full-featured proxy stacks |
+| **Performance** | Service-worker request interception with low latency |
+| **Security** | `about:blank` cloaking, encrypted transport handling |
+| **Impact** | Research into request rewriting & evasion techniques |
+| **Repository** | [Ultraviolet](https://github.com/ParrrotVR/Ultraviolet) · [Holy-Unblocker](https://github.com/ParrrotVR/Holy-Unblocker) · [Mysmic-Unblocker](https://github.com/ParrrotVR/Mysmic-Unblocker) · [Slate](https://github.com/ParrrotVR/Slate) |
+
+Hands-on study of how modern proxies intercept, rewrite, and route traffic at the service-worker layer.
+
+</details>
+
+<details>
+<summary><b>🎮 WorldBoxMultiplayer-Releases</b></summary>
+
+<br/>
+
+Release distribution for a **multiplayer mod for WorldBox**, coordinating client/server synchronization.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | C#, .NET, Unity modding APIs |
+| **Scale** | Multiplayer sync layer over a single-player game |
+| **Performance** | State-sync engineering for real-time play |
+| **Security** | Signed release artifacts |
+| **Impact** | Actively maintained release channel |
+| **Repository** | [WorldBoxMultiplayer-Releases](https://github.com/ParrrotVR/WorldBoxMultiplayer-Releases) |
+
+</details>
+
+<details>
+<summary><b>🔧 GM8Decompiler</b></summary>
+
+<br/>
+
+Work with a **decompiler for GameMaker 8.x executables** — reverse-engineering compiled game binaries back into editable projects.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | Rust, binary analysis |
+| **Scale** | Full executable → project reconstruction |
+| **Performance** | Efficient bytecode parsing |
+| **Security** | Static binary analysis |
+| **Impact** | Game preservation & reverse-engineering tooling |
+| **Repository** | [GM8Decompiler](https://github.com/ParrrotVR/GM8Decompiler) |
 
 </details>
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Independent Software Engineer · ParrrotVR
+**Independent Engineer & Security Researcher** · *Self-Directed*
+`2023 — Present`
 
-**August 2024 — Present**
+Building and shipping web applications, browser game ports, and proxy systems while researching network filtering and evasion techniques.
 
-Building and maintaining self-directed software, cybersecurity, web-platform, and release-engineering projects from concept through deployment.
+- Engineered service-worker-based proxy deployments and studied request-rewriting internals
+- Ported multiple desktop games to the browser with persistent, client-side save systems
+- Reverse-engineered game binaries and built/distributed multiplayer mods
+- Maintained release pipelines and community-forked open-source projects
 
-- Engineered browser-native applications using JavaScript, HTML, CSS, WebAssembly, and service workers.
-- Designed integrity-aware release metadata with artifact hashes and version compatibility controls.
-- Built cross-platform packaging workflows for Windows, Linux, and macOS.
-- Configured cloud-edge deployments, security headers, asset routing, and cache behavior.
-- Evaluated open-source systems through adaptation, integration, testing, and documentation.
-- Developed with a product mindset focused on reliability, accessibility, performance, and maintainability.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-312E81?style=flat-square&logo=javascript&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-3730A3?style=flat-square&logo=webassembly&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-4338CA?style=flat-square&logo=cloudflare&logoColor=white)
-![Security](https://img.shields.io/badge/Application_Security-4F46E5?style=flat-square&logo=owasp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-5B21B6?style=flat-square&logo=git&logoColor=white)
-
-### Product & Platform Engineer · mysmic.dev
-
-**March 2026 — Present**
-
-Developing a cloud-hosted product platform for delivering browser experiences through a unified, responsive interface.
-
-- Implemented frontend navigation, responsive layouts, and client-side application behavior.
-- Added service-worker lifecycle management and explicit cache-control policies.
-- Configured Cloudflare Worker routing and static asset bindings.
-- Applied cross-origin security policies required by isolated browser workloads.
-- Managed large deployment assets through repository and hosting constraints.
-
-![Product Engineering](https://img.shields.io/badge/Product_Engineering-4C1D95?style=flat-square)
-![Service Workers](https://img.shields.io/badge/Service_Workers-5B21B6?style=flat-square)
-![Edge Computing](https://img.shields.io/badge/Edge_Computing-6D28D9?style=flat-square)
-![Performance](https://img.shields.io/badge/Web_Performance-4338CA?style=flat-square)
+`Web Security` `JavaScript` `Service Workers` `Game Porting` `Reverse Engineering` `Node.js` `C#`
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-<table>
-  <thead>
-    <tr>
-      <th>Recognition</th>
-      <th>Details</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Open-Source Portfolio</td>
-      <td>Built and maintained a public portfolio spanning 17 repositories.</td>
-    </tr>
-    <tr>
-      <td>Secure Release Engineering</td>
-      <td>Implemented SHA-256 verification metadata for versioned application and launcher artifacts.</td>
-    </tr>
-    <tr>
-      <td>Cross-Platform Packaging</td>
-      <td>Created Windows, Linux, and macOS workflows for reconstructing segmented application exports.</td>
-    </tr>
-    <tr>
-      <td>Cloud-Edge Deployment</td>
-      <td>Delivered browser applications through Cloudflare routing, asset bindings, and custom security policies.</td>
-    </tr>
-    <tr>
-      <td>Large-Asset Engineering</td>
-      <td>Designed practical repository workflows for multi-hundred-megabyte WebAssembly applications.</td>
-    </tr>
-    <tr>
-      <td>Community Adoption</td>
-      <td>Published original web-port projects that have been forked by other developers.</td>
-    </tr>
-  </tbody>
-</table>
+| Recognition | Details |
+|-------------|---------|
+| GitHub Pro Member | Active Pro-tier open-source contributor |
+| 17 Public Repositories | Shipping across web, security, and game porting |
+| Community Forks | Projects reused and forked by other developers |
+| Persistent Game Ports | Solved durable save state for in-browser desktop games |
 
 </div>
 
 ---
 
-## Certifications
-
-> Current certification roadmap and provider-backed learning tracks.
-
-### AWS
-
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Learning_Path-4C1D95?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner learning path" />
-</a>
-<a href="https://aws.amazon.com/certification/certified-developer-associate/">
-  <img src="https://img.shields.io/badge/AWS_Developer_Associate-Roadmap-5B21B6?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Developer Associate roadmap" />
-</a>
-
-### Oracle
-
-<a href="https://education.oracle.com/oracle-cloud-infrastructure-2025-foundations-associate/pexam_1Z0-1085-25">
-  <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-Foundations_Track-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure learning track" />
-</a>
-<a href="https://education.oracle.com/java-certification-benefits">
-  <img src="https://img.shields.io/badge/Oracle_Java-Developer_Track-4338CA?style=for-the-badge&logo=openjdk&logoColor=white" alt="Oracle Java learning track" />
-</a>
-
-### NPTEL
-
-<a href="https://nptel.ac.in/courses/106106182">
-  <img src="https://img.shields.io/badge/NPTEL-Programming_and_Data_Structures-4C1D95?style=for-the-badge&logo=bookstack&logoColor=white" alt="NPTEL programming and data structures" />
-</a>
-<a href="https://nptel.ac.in/courses/106106184">
-  <img src="https://img.shields.io/badge/NPTEL-Computer_Networks-5B21B6?style=for-the-badge&logo=bookstack&logoColor=white" alt="NPTEL computer networks" />
-</a>
-
-### Cisco
-
-<a href="https://www.netacad.com/courses/introduction-to-cybersecurity">
-  <img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-6D28D9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco cybersecurity learning path" />
-</a>
-<a href="https://www.netacad.com/courses/networking-basics">
-  <img src="https://img.shields.io/badge/Cisco-Networking_Basics-4338CA?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco networking basics learning path" />
-</a>
-
----
-
-## Coding Profiles
+## 📜 Certifications
 
 <div align="center">
 
-<a href="https://leetcode.com/u/ParrrotVR/">
-  <img src="https://img.shields.io/badge/LeetCode-ParrrotVR-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/parrrotvr/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-ParrrotVR-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
-<a href="https://www.hackerrank.com/profile/ParrrotVR">
-  <img src="https://img.shields.io/badge/HackerRank-ParrrotVR-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-<a href="https://www.codechef.com/users/ParrrotVR">
-  <img src="https://img.shields.io/badge/CodeChef-ParrrotVR-4338CA?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
+**Security & Web**
+
+<img src="https://img.shields.io/badge/CompTIA-Security%2B_(In_Progress)-E30613?style=flat-square&logo=comptia&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-Learning_Path-212C42?style=flat-square&logo=tryhackme&logoColor=white"/>
+
+**Cloud & Infrastructure**
+
+<img src="https://img.shields.io/badge/Cloudflare-Web_Deployment-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-Edge_Hosting-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+</div>
+
+> Update these badges with verified certification links before publishing.
+
+---
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Compete-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/TryHackMe-Hack-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackTheBox-Pwn-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/ParrrotVR">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ParrrotVR&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" alt="ParrrotVR GitHub statistics" />
-</a>
-<a href="https://github.com/ParrrotVR?tab=repositories">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParrrotVR&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="ParrrotVR top languages" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ParrrotVR&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9C9C9&bg_color=0D1117"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ParrrotVR&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9C9C9&dates=8B949E"/>
 
-<br />
+<br/>
 
-<a href="https://github.com/ParrrotVR">
-  <img width="75%" src="https://streak-stats.demolab.com?user=ParrrotVR&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E5E7EB&dates=94A3B8" alt="ParrrotVR contribution streak" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParrrotVR&layout=compact&hide_border=true&title_color=A855F7&text_color=C9C9C9&bg_color=0D1117&langs_count=8"/>
 
 </div>
 
 ---
 
-## GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ParrrotVR&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="ParrrotVR GitHub trophies" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=ParrrotVR&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/ParrrotVR">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ParrrotVR&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=ParrrotVR%27s%20Contribution%20Activity" alt="ParrrotVR contribution activity graph" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParrrotVR&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area=true"/>
 
 </div>
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<a href="https://github.com/ParrrotVR">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParrrotVR/ParrrotVR/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParrrotVR/ParrrotVR/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="ParrrotVR contribution snake" src="https://raw.githubusercontent.com/ParrrotVR/ParrrotVR/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</a>
+<img src="https://raw.githubusercontent.com/ParrrotVR/ParrrotVR/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-```yaml
 learning:
-  - applied AI and machine learning
-  - secure full-stack architecture
-  - cloud-native deployment patterns
-  - scalable data and evaluation workflows
+  - Advanced service-worker proxy architecture
+  - Modern WASM game runtimes
+  - Reverse engineering & binary analysis
 
 building:
-  - browser-native products
-  - integrity-aware release infrastructure
-  - WebAssembly delivery pipelines
-  - security-focused developer tools
+  - Browser ports with persistent save systems
+  - Faster, more resilient web proxies
+  - WorldBox multiplayer tooling
 
 exploring:
-  - LLM application engineering
-  - intelligent workflow automation
-  - edge computing
-  - service-worker architecture
+  - Network filtering & evasion research
+  - Edge deployment for zero-install apps
 
 open_to:
-  - open-source collaboration
-  - software engineering opportunities
-  - product engineering projects
-  - AI and cybersecurity initiatives
-```
+  - Open-source security collaboration
+  - Game preservation & porting projects
+  - Multiplayer modding
 
 ---
 
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
-<a href="mailto:parrrotvr@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-parrrotvr%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/parrrotvr/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/ParrrotVR">
-  <img src="https://img.shields.io/badge/GitHub-Follow_ParrrotVR-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://mysmic.dev">
-  <img src="https://img.shields.io/badge/Portfolio-mysmic.dev-4338CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
+<a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ParrrotVR"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
@@ -516,8 +361,8 @@ open_to:
 
 <div align="center">
 
-*Engineering is the discipline of turning ambitious ideas into dependable systems.*
+<i>"Ship it fast, make it persist, run it anywhere."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,55:4C1D95,100:09001A&height=130&section=footer" alt="Footer banner" />
